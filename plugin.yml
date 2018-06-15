@@ -1,0 +1,7 @@
+main: patpower.github.clanraids.ClanRaids
+version: 1.0 Alpha
+name: ClanRaids
+commands:
+  clan claim:
+    description: Claims the first region for the clan.
+depend: [MultiClan, WorldGuard, WorldEdit, Vault, HolographicDisplays] 
