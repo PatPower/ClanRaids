@@ -19,6 +19,11 @@ Region 2: Has to be inside region 1 and is usually where valubles are kept and i
 ![image](https://user-images.githubusercontent.com/14169560/160804987-d1f6cd97-66ab-4b9e-84be-876ae2fca1d4.png)
 ![2022-03-30_06-05-10](https://user-images.githubusercontent.com/14169560/160806787-0add3bce-0d6b-45d3-8f1f-ad4970045b82.gif)
 
+**Becareful! Region disruptors can be destroyed so raiders will need to defend it carefully**
+![2022-03-30_06-59-53](https://user-images.githubusercontent.com/14169560/160816793-5eb81ed2-d228-43af-b15d-4fcbbd868d03.gif)
+
+
+
 **Region disruptors will only disable one region so if raiders will want to get in to both regions, they will need to bring two**
 ![2022-03-30_06-27-00](https://user-images.githubusercontent.com/14169560/160811060-3a38885d-5f22-47e6-b334-43dedfc40d34.gif)
 
